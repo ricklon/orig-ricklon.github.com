@@ -1,0 +1,16 @@
+contentdir: "content"
+layoutdir: "layouts"
+publishdir: "public"
+indexes:
+          category: "categories"
+baseurl: "http://ricklon.github.io/"
+title: "Ricklon Rickology"
+theme: "hugo-creative-portfolio-theme"
+footnotereturnlinkcontents: "↩"
+permalinks:
+  post: /:year/:month/:title/
+params:
+  Subtitle: "a place to empty the brain"
+  AuthorName: "Rick Anderson"
+  GitHubUser: "ricklon"
+  SidebarRecentLimit: 5
