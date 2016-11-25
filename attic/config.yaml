@@ -1,0 +1,9 @@
+contentdir: "content"
+layoutdir: "layouts"
+publishdir: "public"
+indexes:
+          category: "categories"
+baseurl: "http://ricklon.github.io/ricklon.github.com"
+title: "Ricklon Rickology"
+canonifyurls: true
+
